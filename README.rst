@@ -1,6 +1,10 @@
 pykzee
 ======
 
+.. image:: https://badges.gitter.im/pykzee/community.svg
+   :alt: Join the chat at https://gitter.im/pykzee/community
+   :target: https://gitter.im/pykzee/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 Pykzee is an engine that allows plug-ins to operate on a JSON-like state tree.
 Each plug-in can publish its internal state as part of the global state tree,
 and can subscribe to changes of any part of the tree. Plug-ins can also send
